@@ -22,7 +22,7 @@ export default {
 
 <style>
 .color.sale {
-  color: red;
+  color: blue;
 }
 </style>
 
