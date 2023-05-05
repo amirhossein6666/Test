@@ -5,7 +5,7 @@
   <button @click="closeTemp">close temp</button>
   <div>
     <slot name="links"></slot>
-    <slot name="image"></slot>
+    <slot name="imagegi"></slot>
     <slot></slot>
   </div>
 </template>
